@@ -33,3 +33,25 @@
 </p>
 
 <hr>
+
+
+### Socials and connecting:
+
+<!-- Social icons section -->
+<!-- <p align="center">
+  <a href="https://twitter.com/bonveeee"><img width="32px" alt="Bonveee | Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
+
+<br/> -->
+
+[<img align="left" alt="Bonveeee | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/main/assets/twitter.svg" />][twitter]
+[<img align="left" alt="Bonveeee  | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+
+
+[twitter]: https://twitter.com/Bonveeee 
+[linkedin]: https://www.linkedin.com/in/bonveee
+
+<br>
+<div>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Connect & </b> so if you want to say <b>hi, I'll be here</b> :)</em></div>
