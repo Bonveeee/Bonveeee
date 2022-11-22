@@ -2,8 +2,9 @@
 ## 🔭 I'm currently working on...
 
 - Collaborations
-- Refactoring my old projects
 - Learning, Unlearning, Re-learning
+- Refactoring my old projects
+
 
 ## 🌱 I'm currently learning about
 
