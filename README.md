@@ -3,12 +3,14 @@
 
 - Collaborations
 - Refactoring my old projects
+- Learning, Unlearning, Re-learning
 
 ## 🌱 I'm currently learning about
 
 - React.js
 - Data Structures and Algorithms
 - Ruby on Rails
+- CSS frameworks( tailwind, material UI)
 
 
 ## 📈  GitHub Stats
