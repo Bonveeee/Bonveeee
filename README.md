@@ -5,7 +5,7 @@
 * 🌍  I'm based in Nairobi Kenya
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: Software Engineer contributing to frontend and backend for building web applications to solve day to day problems.
 
 - :seedling: Exploring DevSecOps.
 
