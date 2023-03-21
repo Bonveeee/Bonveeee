@@ -22,6 +22,10 @@
 
 
 ## 🌱 I'm currently learning about
+- VueJs
+- Quasar
+- Vuex, Pinia
+
 
 - React.js
 - Data Structures and Algorithms
