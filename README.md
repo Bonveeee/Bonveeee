@@ -3,7 +3,7 @@
 # :man_technologist: About Me :
 ## My name is Bonventure Ochieng 
 * 🌍  I'm based in Nairobi Kenya
-* I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
+* I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
 
 - :telescope: Software Engineer contributing to frontend and backend for building web applications to solve day to day problems.
 
@@ -24,14 +24,12 @@
 ## 🌱 I'm currently learning about
 - VueJs
 - Quasar
-- Vuex, Pinia
-
+- Laravel
+- Pinia
 
 - React.js
 - Data Structures and Algorithms
-- Ruby on Rails
-- CSS frameworks( tailwind, material UI)
-
+- AWS , Digital Ocean services
 
 ## 📈  GitHub Stats
 <br>
